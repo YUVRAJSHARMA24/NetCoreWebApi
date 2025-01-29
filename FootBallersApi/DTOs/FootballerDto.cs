@@ -1,6 +1,6 @@
-﻿namespace FootBallersApi.Models
+﻿namespace FootBallersApi.DTOs
 {
-    public class FootballerModel
+    public class FootballerDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
